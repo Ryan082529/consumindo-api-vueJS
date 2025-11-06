@@ -22,17 +22,17 @@ Disponível em: `http://localhost:5176`
 ```bash
 npm install -g json-server
 cd backend
-json-server --watch db.json --port 3001
+npx json-server --watch db.json --port 3000
 ```
 
-Disponível em: `http://localhost:3001`
+Disponível em: `http://localhost:3000`
 
 ### 3. Configuração
 
 A URL da API está em `frontend/.env`:
 
 ```
-VITE_API_URL=http://localhost:3001
+VITE_API_URL=http://localhost:3000
 ```
 
 ## 📝 Endpoints
