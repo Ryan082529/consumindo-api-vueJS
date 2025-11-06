@@ -1,0 +1,131 @@
+{
+  "mensagens": [
+    {
+      "id": "3",
+      "titulo": "Atualização do sistema",
+      "conteudo": "O sistema foi atualizado para a versão 2.1.",
+      "autor": "Rafael",
+      "data_criacao": "2025-08-06T09:15:00Z",
+      "status": "ativo"
+    },
+    {
+      "id": "4",
+      "titulo": "Reunião de equipe",
+      "conteudo": "A reunião foi muito produtiva e definimos novas metas.",
+      "autor": "Fernanda",
+      "data_criacao": "2025-08-07T14:00:00Z",
+      "status": "ativo"
+    },
+    {
+      "id": "5",
+      "titulo": "Planejamento semanal",
+      "conteudo": "Organizando as tarefas da semana.",
+      "autor": "Carlos",
+      "data_criacao": "2025-08-08T08:45:00Z",
+      "status": "ativo"
+    },
+    {
+      "id": "6",
+      "titulo": "Reflexão do dia",
+      "conteudo": "Cada desafio é uma nova oportunidade.",
+      "autor": "Mariana",
+      "data_criacao": "2025-08-09T18:20:00Z",
+      "status": "ativo"
+    },
+    {
+      "id": "7",
+      "titulo": "Leitura recomendada",
+      "conteudo": "Recomendo o livro 'Hábitos Atômicos'.",
+      "autor": "Rafael",
+      "data_criacao": "2025-08-10T11:10:00Z",
+      "status": "ativo"
+    },
+    {
+      "id": "8",
+      "titulo": "Progresso do projeto X",
+      "conteudo": "Concluímos a primeira fase com sucesso.",
+      "autor": "Fernanda",
+      "data_criacao": "2025-08-11T16:45:00Z",
+      "status": "ativo"
+    },
+    {
+      "id": "9",
+      "titulo": "Anúncio importante",
+      "conteudo": "Teremos um novo integrante na equipe!",
+      "autor": "Carlos",
+      "data_criacao": "2025-08-12T13:00:00Z",
+      "status": "ativo"
+    },
+    {
+      "id": "10",
+      "titulo": "Dica de produtividade",
+      "conteudo": "Use a técnica Pomodoro para manter o foco.",
+      "autor": "Mariana",
+      "data_criacao": "2025-08-13T09:50:00Z",
+      "status": "ativo"
+    },
+    {
+      "id": "30",
+      "titulo": "Encerrando o mês",
+      "conteudo": "Agosto foi um mês de grandes conquistas.",
+      "autor": "Mariana",
+      "data_criacao": "2025-09-02T18:45:00Z",
+      "status": "ativo"
+    }
+  ],
+  "comentarios": [
+    {
+      "texto": "teste 25",
+      "mensagemId": "6",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "mensagemId": 5,
+      "autor": "Mariana",
+      "texto": "Boa organização das tarefas!"
+    },
+    {
+      "id": "5",
+      "mensagemId": 6,
+      "autor": "Rafael",
+      "texto": "Mensagem inspiradora!"
+    },
+    {
+      "id": "6",
+      "mensagemId": 7,
+      "autor": "Fernanda",
+      "texto": "Esse livro é realmente ótimo!"
+    },
+    {
+      "id": "7",
+      "mensagemId": 8,
+      "autor": "Carlos",
+      "texto": "Parabéns à equipe pelo progresso!"
+    },
+    {
+      "id": "8",
+      "mensagemId": 9,
+      "autor": "Mariana",
+      "texto": "Mal posso esperar para conhecer o novo colega!"
+    },
+    {
+      "id": "9",
+      "mensagemId": 10,
+      "autor": "Rafael",
+      "texto": "Uso essa técnica todos os dias!"
+    },
+    {
+      "id": "10",
+      "mensagemId": 30,
+      "autor": "Fernanda",
+      "texto": "Foi mesmo um mês excelente!"
+    },
+    {
+      "texto": "editado",
+      "mensagemId": "2",
+      "autor": "autor1",
+      "id": "3b3c"
+    }
+  ]
+}
